@@ -225,7 +225,7 @@
     gap: 25px;
 }
 .left-fist{
-    background-image: url(../images/deal-bloom.png);
+    background-image: url(images/deal-bloom.png); 
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -324,7 +324,7 @@
 
 /* join section start */
 .join-full-bg{
-    background-image: url(../images/news-letter-bg.png); 
+    background-image: url(../images/news-letter-bg.png); !important
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
