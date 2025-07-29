@@ -324,7 +324,7 @@
 
 /* join section start */
 .join-full-bg{
-    background-image: url(../images/news-letter-bg.png);
+    background-image: url(../images/news-letter-bg.png); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
