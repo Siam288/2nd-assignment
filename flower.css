@@ -249,7 +249,7 @@
     border-radius: 15px;
 }
 .left-send{
-    background-image: url(../images/deal-ana.png);
+    background-image: url(images/deal-ana.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -277,7 +277,7 @@
     height: 400px;
 }
 .right{
-    background-image: url(../images/deal-zabo.png);
+    background-image: url(images/deal-zabo.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -324,7 +324,7 @@
 
 /* join section start */
 .join-full-bg{
-    background-image: url(../images/news-letter-bg.png); !important
+    background-image: url(images/news-letter-bg.png); !important
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
